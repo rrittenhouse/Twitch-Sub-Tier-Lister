@@ -1,4 +1,4 @@
-# Twitch Sub Tier Lister
+# 📃 Twitch Sub Tier Lister
 
 A simple Python script that fetches and displays all Twitch subscribers for a channel — grouped by their subscription tier (Tier 1, Tier 2, Tier 3), including whether each sub is gifted or not.
 
